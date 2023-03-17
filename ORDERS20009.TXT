@@ -1,0 +1,16 @@
+Customer No    : 20009
+Customer Name  : Komnis Evangelos
+Customer Email : evankomn@ihu.gr
+Order No       : 443
+Order Date     : 22/03/2022
+
+ItemNumber  ItemDesc    Quantity   Price   TotalPrice
+----------  ----------- ---------  ------  ----------
+   100        Item1         1       101.99   101.99
+   200        Item2         3       217.99   653.97
+   400        Item4         1        19.99    19.99
+
+
+                                Subtotal:      775.95
+                                Shipping Cost: 0
+                                Total Amount:  775.95
